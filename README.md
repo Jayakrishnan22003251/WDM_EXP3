@@ -151,11 +151,11 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 ![Screenshot 2024-09-14 090538](https://github.com/user-attachments/assets/9d7af912-61d4-446b-b71d-80995af0b100)
 
-##### Frequent Sequential Pattrens - Top Wear
+#### Frequent Sequential Pattrens - Top Wear
 
 ![image](https://github.com/user-attachments/assets/094c48d5-a2d2-4144-ac72-9cabe5100033)
 
-##### Frequent Sequential Pattrens - Party Wear:
+#### Frequent Sequential Pattrens - Party Wear:
 
 ![image](https://github.com/user-attachments/assets/4ded6a0c-7e4c-43e0-a3ce-debd65ae26d8)
 
